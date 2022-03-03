@@ -1,4 +1,4 @@
-# Covid-19 Live Update
+# Covid-19 Live Update Mobile App
 
 ## This a WHO live update app on covid-19 coupled with Prevention and Symptoms as approved by the regulating bodies globally.
 
